@@ -5,6 +5,7 @@ ShotsPerSecond = "5"
 Recoil = "10" # In degrees
 ReloadTime = "1" # In seconds
 AmmoAmount = "50"
+ReserveAmmo = "50"
 ShotCooldown = "0.1"
 EquipTime = "0.5"
 
