@@ -1,4 +1,4 @@
-WeaponName = "The Rib Destroyers"
+WeaponName = "The Rib Destroyer"
 Damage = "50000"
 HeadshotDamage = "1000000"
 ShotsPerSecond = "50000"
